@@ -20,7 +20,9 @@ https://jefersonalvesrs.github.io/clinica-lumina/
 
 ## 🛠️ Tecnologias
 
-HTML5, CSS3 e JavaScript (sem frameworks).
+- HTML5
+- CSS3
+- JavaScript (sem frameworks)
 
 ## 📁 Estrutura
 
@@ -40,22 +42,41 @@ clinica-lumina/
 │       ├── atendimento.jpg
 │       └── favicon.svg
 ├── imagens/
-│   └── (capturas de tela do site, adicionar depois)
+│   ├── screenshot-home.jpg
+│   ├── screenshot-sobre.jpg
+│   ├── screenshot-tratamentos.jpg
+│   └── screenshot-mobile.jpg
 └── README.md
 ```
 
 ## ▶️ Como executar
 
-Abra `index.html` no navegador ou utilize a extensão Live Server no VS Code.
+Abra o arquivo `index.html` no navegador ou utilize a extensão Live Server no VS Code.
 
 ## 💬 WhatsApp
 
-O formulário não abre WhatsApp enquanto `WHATSAPP_NUMBER` estiver vazio. Para ativar, configure um número autorizado em `script.js` no formato internacional, apenas com dígitos.
+O formulário não abre o WhatsApp enquanto `WHATSAPP_NUMBER` estiver vazio.
+
+Para ativar a funcionalidade, configure um número autorizado no arquivo `script.js`, utilizando o formato internacional, apenas com dígitos.
 
 ## 📸 Capturas de tela
 
-As capturas serão adicionadas à pasta `imagens` depois da revisão do site.
+### Página inicial
+
+![Página inicial](imagens/screenshot-home.jpg)
+
+### Sobre a clínica
+
+![Sobre a clínica](imagens/screenshot-sobre.jpg)
+
+### Tratamentos
+
+![Tratamentos](imagens/screenshot-tratamentos.jpg)
+
+### Versão mobile
+
+![Versão mobile](imagens/screenshot-mobile.jpg)
 
 ## ⚠️ Aviso
 
-**Projeto conceitual.** A Clínica Lumina, sua equipe, seus serviços e seu atendimento são fictícios. As imagens ilustrativas foram produzidas com inteligência artificial e não representam uma clínica real ou tratamentos realizados. Não há atividade comercial real.
+**Projeto conceitual.** A Clínica Lumina, sua equipe, seus serviços e seu atendimento são fictícios. O site utiliza imagens ilustrativas, incluindo imagens geradas por inteligência artificial e fotografias de referência. As imagens não documentam atendimentos ou tratamentos realizados pela clínica. Não há atividade comercial real.
