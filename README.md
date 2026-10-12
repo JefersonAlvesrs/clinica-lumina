@@ -6,7 +6,7 @@ Site institucional **fictício e demonstrativo** para uma clínica odontológica
 
 Acesse o site publicado:
 
-**[Inserir link do GitHub Pages após publicar]**
+https://jefersonalvesrs.github.io/clinica-lumina/
 
 ## ✨ Funcionalidades
 
